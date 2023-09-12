@@ -1,4 +1,4 @@
 # First_GitHub_repo
-This is my first Github Repository and I am new to GitHub. 
-Author Name - Ayush Kumar Gupta 
+This is my first Github Repository and I am new to GitHub. <br>
+Author Name - Ayush Kumar Gupta <br>
 Software Developer
